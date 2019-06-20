@@ -1,9 +1,9 @@
 class Person
-  def name=(name)
+  def name=(name) # Setter method
     @name = name
   end
 
-  def name
+  def name # Getter/putter method
     @name
   end
 
